@@ -1,8 +1,8 @@
 {
-  "name": "Cricket Life bot",
+  "name": "Zim Bot Inc Fix by Nima",
   "description": "whatsapp md bot build with Zoom HD",
   "repository": "https://github.com/MRnimaofc2/tuna-bot",
-  "logo": "https://wallpapersmug.com/download/1600x900/c93093/hot-anime-girl-erza-scarlet.jpg",
+  "logo": "https://i.imgur.com/rANDwCP.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
